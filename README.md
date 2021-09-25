@@ -8,10 +8,11 @@ Practice creating a basic server and deployment to Heroku.
 
 ### Author: Mark Thanadabouth
 
-### Collaborators: 
+### Collaborators: Alex W(Instructor),
 
 ### Links and Resources
-* [Deployed Link]()
+* [Deployed Link (devBranch)](https://markthana-server-deploy-dev.herokuapp.com/)
+* [Deployed Link (mainBranch)](https://markthana-server-deploy-prod.herokuapp.com/)
 
 
 ### Reflections and Comments
@@ -25,6 +26,6 @@ Estimate of time needed to complete: 1 Hour
 
 Start time: 2:00pm
 
-Finish time:
+Finish time: 3:48pm
 
-Actual time needed to complete: 
+Actual time needed to complete: About 30 mins beside the remo issue
